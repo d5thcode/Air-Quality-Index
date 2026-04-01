@@ -1,4 +1,3 @@
-# Air-Quality-Index
 # **Air Quality Index (PM2.5) Analysis — Lagos (2021–2023)**
 
 ## **1. Dataset Overview**
